@@ -1,0 +1,73 @@
+.main{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+strong{
+  min-width: 100px;
+  margin: 10px;
+}
+strong{ font-size: 20px;}
+.my-montserrat strong {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  color: #333;
+  text-shadow: 5px 5px 5px red;
+}
+.my-pacifico strong {
+  font-family: 'Pacifico', cursive;
+  font-size: 48px;
+  color: #ff6600;
+  text-shadow: 5px 5px 5px red;
+}
+
+.my-lobster strong {
+  font-family: 'Lobster', cursive;
+  font-size: 48px;
+  color: #e600ac;
+  text-shadow: 5px 5px 5px red;
+}
+
+.my-dancing-script strong {
+  font-family: 'Dancing Script', cursive;
+  font-size: 42px;
+  color: #990099;
+  text-shadow: 5px 5px 5px red;
+}
+
+.my-indie-flower strong {
+  font-family: 'Indie Flower', cursive;
+  font-size: 40px;
+  color: #0099cc;
+  text-shadow: 5px 5px 5px red;
+}
+.my-amaticsc strong {
+  font-family: 'Amatic SC', cursive;
+  font-size: 56px;
+  color: #ff3399;
+  text-shadow: 5px 5px 5px red;
+}
+.my-great-vibes strong {
+  font-family: 'Great Vibes', cursive;
+  font-size: 48px;
+  color: #cc0000;
+  text-shadow: 5px 5px 5px red;
+}
+.my-shadows-into-lite strong {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 44px;
+  color: #663300;
+  text-shadow: 5px 5px 5px red;
+}
+.my-courgette strong {
+  font-family: 'Courgette', cursive;
+  font-size: 40px;
+  color: #339966;
+  text-shadow: 5px 5px 5px red;
+}
+.my-bangers strong {
+  font-family: 'Bangers', cursive;
+  font-size: 60px;
+  color: #ff9933;
+  text-shadow: 5px 5px 5px red;
+}
